@@ -104,6 +104,7 @@ section{
   color: white;
   padding: .4rem .6rem;
   transition: border .5s ease-in-out;
+  cursor: pointer;
 
 }
 .bt-typ:hover{
@@ -656,6 +657,7 @@ text-decoration: none;
   width: 150px;
   height: 39px;
   transition: border .5s ease-in-out;
+  cursor: pointer;
 }
 
 #kontakt-form{
@@ -806,7 +808,7 @@ text-decoration: none;
     width: 50%;
     height: 2.5rem;
     font-size: 1rem;
-  
+    cursor: pointer;
  
 }
 
